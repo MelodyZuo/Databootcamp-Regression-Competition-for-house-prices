@@ -1,5 +1,5 @@
 # Databootcamp-Regression-Competition-for-house-prices
-
+Team members: Melody Zuo and Yihuan Zhang
 # House Price Prediction
 
 This project was completed for the Data Bootcamp Kaggle competition. Our goal was to predict house sale prices using regression models and compare different approaches to improve prediction accuracy.
