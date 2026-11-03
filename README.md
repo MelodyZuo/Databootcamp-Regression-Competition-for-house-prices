@@ -16,15 +16,3 @@ We also created additional features based on house size, age, overall quality, a
 
 - **`house_price_model.ipynb`**: Contains the final model code, data preprocessing, feature engineering, cross-validation, and Kaggle submission. It also includes a record of our model development process.
 - **`process.ipynb`**: Provides a detailed record of the models we tested, the changes we made, and how we selected our final model.
-
-## Methods
-
-We used Python, Pandas, NumPy, and scikit-learn for data processing and modeling. Our main methods included:
-
-- Missing value imputation and one-hot encoding
-- Feature scaling and feature engineering
-- Linear Regression and Polynomial Features
-- Ridge Regression and Random Forest
-- Five-fold cross-validation and RMSE evaluation
-
-We evaluated model performance using Root Mean Squared Error (RMSE), where a lower score indicates better prediction accuracy.
